@@ -15,4 +15,4 @@ simply copy and paste the class and you are done.
 
 # Note
 
-this is just a work around to get circled image , there is other ways to do this with `CustomPainter`,`CustomClipper`.
+this is just a work around to get circled image , there is another way to do this with `CustomClipper`.
